@@ -13,6 +13,14 @@
 
 ---
 
+### 📫 How to Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kayki-rocha-357a80301)
+- 📬 Email: kaykirocha@gmail.com
+- 🧑‍💻 GitHub: [UnderOfAll](https://github.com/UnderOfAll)
+
+---
+
 ### 🚀 My 42 Projects
 
 | Project         | Description                                                    | GitHub                                                 |
@@ -39,14 +47,6 @@
   <img src="https://streak-stats.demolab.com?user=UnderOfAll&theme=radical&hide_border=true" height="180" />
   <img src="https://github-profile-trophy.vercel.app/?username=UnderOfAll&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
 </div>
-
----
-
-### 📫 How to Reach Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kayki-rocha-357a80301)
-- 📬 Email: kaykirocha@gmail.com
-- 🧑‍💻 GitHub: [UnderOfAll](https://github.com/UnderOfAll)
 
 ---
 
