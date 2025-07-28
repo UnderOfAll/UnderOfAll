@@ -44,7 +44,7 @@
 
 ### 📫 How to Reach Me
 
-- 💼 [LinkedIn)](https://www.linkedin.com/in/kayki-rocha-357a80301)
+- 💼 [LinkedIn)]: (https://www.linkedin.com/in/kayki-rocha-357a80301)
 - 📬 Email: kaykirocha@gmail.com
 - 🧑‍💻 GitHub: [UnderOfAll](https://github.com/UnderOfAll)
 
