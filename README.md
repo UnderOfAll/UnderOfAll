@@ -59,9 +59,12 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=UnderOfAll&theme=dark" alt="GitHub Streak" />
   </a>
-  <br />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=UnderOfAll&theme=radical&no-frame=true&margin-w=10" />
 </p>
+
 
 ---
 
