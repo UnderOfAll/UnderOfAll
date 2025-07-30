@@ -55,10 +55,13 @@
 
 ### 🧠 GitHub Streak & Trophies
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=UnderOfAll&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=UnderOfAll&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=UnderOfAll&theme=dark" alt="GitHub Streak" />
+  </a>
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=UnderOfAll&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
