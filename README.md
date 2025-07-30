@@ -53,10 +53,10 @@
 
 ---
 
-### 🧠 GitHub Streak & Trophies
+### 🧠 GitHub Activity Graph & Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=UnderOfAll&theme=dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=UnderOfAll&theme=github-compact" />
 </p>
 
 <p align="center">
