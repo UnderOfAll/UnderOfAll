@@ -56,7 +56,7 @@
 ### 🧠 GitHub Streak & Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=UnderOfAll&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=UnderOfAll&theme=dark" />
 </p>
 
 <p align="center">
